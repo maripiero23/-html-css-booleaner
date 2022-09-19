@@ -50,3 +50,20 @@ header{
 .ultimo-giallo{
     background-color: yellow;
 }
+
+.interests{
+    color: gray;
+}
+
+.comp{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.graph{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+}
