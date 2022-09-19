@@ -8,10 +8,15 @@ body{
 
 header{
     background-image: url(../img/pattern.png);
-    background-size: cover;
+    background-size: 30%;
     background-color: #2cb7e7;
+    height: 100px;
 }
 
 .sotB{
     color: #2cb7e7;
+}
+
+.date{
+    font-size: small;
 }
