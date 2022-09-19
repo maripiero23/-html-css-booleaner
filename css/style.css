@@ -8,4 +8,6 @@ body{
 
 header{
     background-image: url(../img/pattern.png);
+    background-size: cover;
+    background-color: #2cb7e7;
 }
